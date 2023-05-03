@@ -1,8 +1,7 @@
-# GameLab Project Repository
+# You only live once! - Repository
 
 |  General Info  | |
 | ---|---|
-| Working Title | You only live once! |
 | Final Title | You only live once! |
 | Students | Jan Ruppert, jan-ruppert@stud-mail.uni-wuerzburg.de, s426285 |
 | Target Platform(s) | Windows |
