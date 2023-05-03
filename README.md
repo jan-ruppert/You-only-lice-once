@@ -3,7 +3,7 @@
 |  General Info  | |
 | ---|---|
 | Final Title | You only live once! |
-| Students | Jan Ruppert, jan-ruppert@stud-mail.uni-wuerzburg.de, s426285 |
+| Students | Jan Ruppert|
 | Target Platform(s) | Windows |
 | Start Date | 18.10.2021 |
 | Study Program | Games Engineering B.Sc.|
