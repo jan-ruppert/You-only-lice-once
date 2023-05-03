@@ -11,5 +11,3 @@
 ### Abstract
 
 You only live once! is a dynamic 2D top-down shooter with bullet hell elements. The game excels in a series of epic boss-fights in which the player tries to achieve the highest score. But its unique twist is allowing the player to choose bonuses and penalties between fights to manipulate his abilities and multiplier.
-
-[### Documentation](documentation/doxygen/html/index.html)
